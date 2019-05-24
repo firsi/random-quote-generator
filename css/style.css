@@ -1,0 +1,63 @@
+body {
+  background: url(https://images.unsplash.com/photo-1532759627329-f664e1222001?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Baloo Bhai;
+}
+
+.main {
+  opacity: 0.8;
+  min-height: 100vh;
+}
+
+.main-color {
+  color: #764134;
+}
+
+.main-background-color {
+  background-color: #764134;
+}
+
+.title {
+  color: #ffffff;
+  opacity: 1;
+  margin-top: 5%;
+  font-size: 50px;
+}
+
+#text {
+  font-size: 25px;
+}
+
+#author {
+  font-size: 18px;
+  padding-bottom: 5%;
+}
+
+#quote-box {
+  background-color: white;
+  padding: 4% 5%;
+  margin-top: 30vh;
+}
+
+.social {
+  font-size: 28px;
+  padding-right: 5%;
+}
+
+.social:hover {
+  opacity: 0.9;
+}
+
+#new-quote {
+  color: white;
+  font-size: 15px;
+}
+
+#new-quote:hover {
+  opacity: 0.9;
+}
+
+.footer {
+  color: #fff;
+}
